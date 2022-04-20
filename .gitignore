@@ -1,0 +1,25 @@
+# User-specific files
+*.user
+
+# IDE
+.vs
+.idea
+/**/.vs
+/**/.idea
+
+# Project Build
+/**/bin
+/**/obj
+
+# Node
+/**/node_modules
+
+# Cake Build
+build/tools
+
+# Logging
+/**/logs
+
+# Docker
+/**/docker/publish
+/**/docker/*.tar
