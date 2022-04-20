@@ -1,5 +1,5 @@
 # EmailTest
-With this tool, you can try to connect to an email server and validate the credentials.
+With this tool, you can try a connection to an email server and validate the credentials.
 
 ## Usage
 1. Download the latest [Release](https://github.com/TeraNovaLP/EmailTest/releases) and unzip it.
